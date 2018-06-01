@@ -1,0 +1,7 @@
+*.list
+*.map
+*.elf
+*.o
+*.log
+*.su
+
